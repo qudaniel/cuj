@@ -1,0 +1,14 @@
+<key>,<username>,<orgid>,<envname>,<baseurl>,<fabricname>,<clusterprovider>,<anypointhost>,<helmchart>,<artifact>,<artifacttag>
+cuj-prod-synthetic-eks,runtime-fabric-automation,dab93205-825e-40a2-9729-171cc733c064,sandbox,https://anypoint.mulesoft.com,cuj-prod-synthetic-eks,eks,prod,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-eu1-synthetic-eks,runtime-fabric-automation,ffc8af83-01dc-471c-a753-d1dec578bb5e,sandbox,https://eu1.anypoint.mulesoft.com,cuj-eu1-synthetic-eks,eks,eu1,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-prod-synthetic-openshift,runtime-fabric-automation,dab93205-825e-40a2-9729-171cc733c064,sandbox,https://anypoint.mulesoft.com,cuj-prod-synthetic-openshift,openshift,prod,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-eu1-synthetic-openshift,runtime-fabric-automation,ffc8af83-01dc-471c-a753-d1dec578bb5e,sandbox,https://eu1.anypoint.mulesoft.com,cuj-eu1-synthetic-openshift,openshift,eu1,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-prod-synthetic-gke,runtime-fabric-automation,dab93205-825e-40a2-9729-171cc733c064,sandbox,https://anypoint.mulesoft.com,cuj-prod-synthetic-gke,gke,prod,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-eu1-synthetic-gke,runtime-fabric-automation,ffc8af83-01dc-471c-a753-d1dec578bb5e,sandbox,https://eu1.anypoint.mulesoft.com,cuj-eu1-synthetic-gke,gke,eu1,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-prod-synthetic-aks,runtime-fabric-automation,dab93205-825e-40a2-9729-171cc733c064,sandbox,https://anypoint.mulesoft.com,cuj-prod-synthetic-aks,aks,prod,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-eu1-synthetic-aks,runtime-fabric-automation,ffc8af83-01dc-471c-a753-d1dec578bb5e,sandbox,https://eu1.anypoint.mulesoft.com,cuj-eu1-synthetic-aks,aks,eu1,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-prod-synthetic-eksa,runtime-fabric-automation,dab93205-825e-40a2-9729-171cc733c064,sandbox,https://anypoint.mulesoft.com,cuj-prod-synthetic-eksa,eksa,prod,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-eu1-synthetic-eksa,runtime-fabric-automation,ffc8af83-01dc-471c-a753-d1dec578bb5e,sandbox,https://eu1.anypoint.mulesoft.com,cuj-eu1-synthetic-eksa,eksa,eu1,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-stgx-synthetic-eksa,runtime-fabric-automation,cd14ae17-813f-4256-ade7-e5a9ae791211,sandbox,https://stgx.anypoint.mulesoft.com,cuj-stgx-synthetic-eksa,eksa,stgx,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-stgx-synthetic-openshift,runtime-fabric-automation,cd14ae17-813f-4256-ade7-e5a9ae791211,sandbox,https://stgx.anypoint.mulesoft.com,cuj-stgx-synthetic-openshift,openshift,stgx,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
+cuj-stgx-synthetic-gke,runtime-fabric-automation,cd14ae17-813f-4256-ade7-e5a9ae791211,sandbox,https://stgx.anypoint.mulesoft.com,cuj-stgx-synthetic-gke,gke,stgx,rtf-mule-chart-0.3.96.tgz,rtf-agent,2.6.22
